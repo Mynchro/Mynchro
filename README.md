@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Web Development (MERN) Student @DCI
 
 - 🌍  I'm based in Berlin
-- ✉️  You can contact me at [https://www.linkedin.com/in/marius-weber-84875b234/](mailto:https://www.linkedin.com/in/marius-weber-84875b234/)
+- ✉️  You can contact me at LinkedIn
 - 🧠  I'm learning MERN
 
 ### Skills
